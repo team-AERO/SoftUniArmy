@@ -1,0 +1,175 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="css/bootstrap-theme.css" rel="stylesheet" />
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <header>
+                    <img src="img/logoSoftArmy.jpg" />
+                    <img src="img/nakov-army-copy.jpg" />
+                </header>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Новини</a></li>
+                        <li><a href="about.html">За нас</a></li>
+                        <li><a href="professions.html">Професии</a></li>
+                        <li><a href="disciplines.html">Специалности</a></li>
+                        <li><a href="teachers.html">Преподаватели</a></li>
+                        <li><a href="firms.html">Вражески територии</a></li>
+                        <li><a href="apply.html">Кандидатстване</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8">
+                <section>
+                    <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+                        Launch demo modal
+                    </button>
+
+                    <div style="display: none;" id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                                    <h4 class="modal-title" id="myModalLabel">Карта</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <h4>Text in a modal</h4>
+                                    <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula.</p>
+
+                                    <h4>Popover in a modal</h4>
+                                    <p>This <a data-original-title="A Title" href="#" role="button" class="btn btn-default popover-test" title="" data-content="And here's some amazing content. It's very engaging. right?">button</a> should trigger a popover on click.</p>
+
+                                    <h4>Tooltips in a modal</h4>
+                                    <p><a data-original-title="Tooltip" href="#" class="tooltip-test" title="">This link</a> and <a data-original-title="Tooltip" href="#" class="tooltip-test" title="">that link</a> should have tooltips on hover.</p>
+
+                                    <hr>
+
+                                    
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary">Save changes</button>
+                                </div>
+
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div>
+                    
+                    
+                    <div class="hovergallery">
+                        <img src="img/softunipolylon.png" />
+                    </div>
+                        
+                    <style type="text/css">
+                            .hovergallery img {
+                                -webkit-transform: scale(0.2); /*Webkit: Scale down image to 0.8x original size*/
+                                -moz-transform: scale(0.2); /*Mozilla scale version*/
+                                -o-transform: scale(0.2); /*Opera scale version*/
+                                -webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+                                -moz-transition-duration: 0.5s; /*Mozilla duration version*/
+                                -o-transition-duration: 0.5s; /*Opera duration version*/
+                                opacity: 0.7; /*initial opacity of images*/
+                                margin: -500px -500px 100px; /*margin between images*/
+                            }
+
+                                .hovergallery img:hover {
+                                    -webkit-transform: scale(0.7); /*Webkit: Scale up image to 1.2x original size*/
+                                    -moz-transform: scale(0.7); /*Mozilla scale version*/
+                                    -o-transform: scale(0.7); /*Opera scale version*/
+                                    box-shadow: 0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+                                    -webkit-box-shadow: 0px 0px 30px gray; /*Safari shadow version*/
+                                    -moz-box-shadow: 0px 0px 30px gray; /*Mozilla shadow version*/
+                                    opacity: 1;
+                                    z-index: 2;
+                                    position: absolute;
+                                }
+                        </style>
+
+</section>
+            </div>
+            <div class="col-md-4">
+                <aside>
+                    <header>
+                        <h3>
+                            Новини
+                        </h3>
+                    </header>
+                    <article>
+                        <h4>
+                            Нов полигон
+                        </h4>
+                        <p>
+                            Новият полигон на СофтУни е модернизиран за подготовката на млади и мотивирани кадри.
+                            <a href="index.html">Виж повече...</a>
+                        </p>
+                    </article>
+
+                    <article>
+                        <h4>
+                            Нов полигон
+                        </h4>
+                        <p>
+                            Новият полигон на СофтУни е модернизиран за подготовката на млади и мотивирани кадри.
+                            <a href="index.html">Виж повече...</a>
+                        </p>
+                    </article>
+
+                    <header>
+                        <h3>
+                            Вражески територии
+                        </h3>
+                    </header>
+                    <article>
+                        <h4>
+                            база Виваком
+                        </h4>
+                        <p>
+                            Този обект се намира на 2000 крачки от софиисктата база на СофтУни.
+                            <a href="index.html">Виж повече...</a>
+                        </p>
+                    </article>
+
+                    <article>
+                        <h4>
+                            Нов полигон
+                        </h4>
+                        <p>
+                            Новият полигон на СофтУни е модернизиран за подготовката на млади и мотивирани кадри.
+                            <a href="index.html">Виж повече...</a>
+                        </p>
+                    </article>
+
+
+
+                </aside>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <footer>
+                © 2014 Team "AERO" All rights reserved
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
