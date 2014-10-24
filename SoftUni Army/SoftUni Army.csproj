@@ -57,11 +57,21 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="img\bg.jpg" />
-    <Content Include="img\softunipolylon.jpg" />
+    <Content Include="about.html" />
+    <Content Include="apply.html" />
+    <Content Include="disciplines.html" />
+    <Content Include="firms.html" />
+    <Content Include="img\logoSoftArmy.jpg" />
+    <Content Include="img\nakov-army-copy.jpg" />
+    <Content Include="img\nakov-army.jpg" />
+    <Content Include="img\softunipolylon.png" />
+    <Content Include="img\softvoinik.png" />
+    <Content Include="img\svetlin_nakov-trainers.jpg" />
     <Content Include="index.html" />
     <Content Include="css\style.css" />
-    <Content Include="js\function.js" />
+    <Content Include="js\game-code.js" />
+    <Content Include="professions.html" />
+    <Content Include="teachers.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

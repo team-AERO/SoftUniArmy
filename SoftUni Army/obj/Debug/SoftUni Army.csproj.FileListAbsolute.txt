@@ -10,3 +10,9 @@ D:\SoftUni Army\SoftUni Army\bin\SoftUni Army.pdb
 D:\SoftUni Army\SoftUni Army\obj\Debug\SoftUni Army.csprojResolveAssemblyReference.cache
 D:\SoftUni Army\SoftUni Army\obj\Debug\SoftUni Army.dll
 D:\SoftUni Army\SoftUni Army\obj\Debug\SoftUni Army.pdb
+D:\Programing Language\Git\Git\SoftUniArmy\SoftUni Army\bin\SoftUni Army.dll.config
+D:\Programing Language\Git\Git\SoftUniArmy\SoftUni Army\bin\SoftUni Army.dll
+D:\Programing Language\Git\Git\SoftUniArmy\SoftUni Army\bin\SoftUni Army.pdb
+D:\Programing Language\Git\Git\SoftUniArmy\SoftUni Army\obj\Debug\SoftUni Army.csprojResolveAssemblyReference.cache
+D:\Programing Language\Git\Git\SoftUniArmy\SoftUni Army\obj\Debug\SoftUni Army.dll
+D:\Programing Language\Git\Git\SoftUniArmy\SoftUni Army\obj\Debug\SoftUni Army.pdb
