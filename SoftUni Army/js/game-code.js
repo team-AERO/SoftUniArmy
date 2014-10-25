@@ -1,6 +1,3 @@
-<SCRIPT>
-
-//if IE4/NS6, apply style
 if (document.all||document.getElementById){
 document.write('<style>.tictac{')
 document.write('width:50px;height:50px;')
@@ -671,5 +668,5 @@ function resetter()
 {
   reset()
 }
-</SCRIPT>
+
 
