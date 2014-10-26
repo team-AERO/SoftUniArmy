@@ -16,3 +16,9 @@ D:\Programing Language\Git\Git\SoftUniArmy\SoftUni Army\bin\SoftUni Army.pdb
 D:\Programing Language\Git\Git\SoftUniArmy\SoftUni Army\obj\Debug\SoftUni Army.csprojResolveAssemblyReference.cache
 D:\Programing Language\Git\Git\SoftUniArmy\SoftUni Army\obj\Debug\SoftUni Army.dll
 D:\Programing Language\Git\Git\SoftUniArmy\SoftUni Army\obj\Debug\SoftUni Army.pdb
+C:\Users\Rumen\Documents\GitHub\SoftUniArmy\SoftUni Army\bin\SoftUni Army.dll.config
+C:\Users\Rumen\Documents\GitHub\SoftUniArmy\SoftUni Army\bin\SoftUni Army.dll
+C:\Users\Rumen\Documents\GitHub\SoftUniArmy\SoftUni Army\bin\SoftUni Army.pdb
+C:\Users\Rumen\Documents\GitHub\SoftUniArmy\SoftUni Army\obj\Debug\SoftUni Army.csprojResolveAssemblyReference.cache
+C:\Users\Rumen\Documents\GitHub\SoftUniArmy\SoftUni Army\obj\Debug\SoftUni Army.dll
+C:\Users\Rumen\Documents\GitHub\SoftUniArmy\SoftUni Army\obj\Debug\SoftUni Army.pdb
