@@ -120,6 +120,13 @@ article.news img{
     margin-bottom: 15px;
     float: left;
 }
+.btn-primary {
+    margin-bottom: 10px;
+}
+.btn-primary:hover {
+    cursor: pointer;
+    box-shadow: inset 10px 5px 5px #234465;
+}
 
 
 
@@ -127,7 +134,7 @@ article.news img{
 
 
 
-/*tova e za novinite  tova e za novinite  tova e za novinite  tova e za novinite  tova e za novinite*/
+/*tova e za novinite */
 div.row div.col-md-4.news {
         display: inline-block;
         width: 280px;
