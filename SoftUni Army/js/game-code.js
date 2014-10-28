@@ -3,7 +3,16 @@ document.write('<style>.tictac{')
 document.write('width:50px;height:50px;')
 document.write('}</style>')
 }
-
+$(document).ready(function () {
+    var placeholder = null;
+    $('input[type=text]').focus(function () {
+        placeholder = $(this).attr("placeholder");
+        $(this).attr("placeholder", "");
+    });
+    $('input[type=text]').blur(function () {
+        $(this).attr("placeholder", placeholder);
+    });
+});
 var sqr1
 var sqr2
 var sqr3

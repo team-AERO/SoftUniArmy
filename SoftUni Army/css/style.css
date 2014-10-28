@@ -1,6 +1,6 @@
 ﻿body {
     background: none;
-    background-color: #EEEEEE;
+    background-image: url('img/body-background.jpg');
 }
 
 div.container {
@@ -19,8 +19,58 @@ div.container {
         margin-left: -4px;
         padding: 0;
     }
+    .main {
+        border: 1px solid #1e5799;
+        margin: 10px;
+        border-radius: 5px;
+        background-image: url('img/body-background.jpg');
+        box-shadow: inset 0px 1px 20px #1e5799;
+        font-family: Tahoma;
+    }
+    .sep {
+        margin-left: 15px;
+    }
+#reg-form>div {
+    margin: 10px;
 
+}
+.register {
+    margin: 10px;
 
+}
+#create-account {
+    border: 1px solid #1e5799;
+    width: 270px;
+    margin: 5px;
+    padding: 10px;
+    padding-left: 10px;
+    background-color: lightskyblue;
+    display: inline-block;
+    border-radius: 5px;
+    color: lightslategrey;
+     
+}
+#create-account:hover {
+    background-color: white;
+}
+.social-buttons {
+    border: 1px solid #1e5799;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    padding-left: 20px;
+    background-color: lightskyblue;
+    display: inline-block;
+    border-radius: 5px;
+       margin-left: 20px;
+}
+.social-buttons:hover {
+    background-color: white;
+}
+a {
+    color: lightslategrey;
+    text-decoration: none;
+}
 nav ul {
     list-style-type: none;
     background: #e2e2e2; /* Old browsers */
@@ -32,7 +82,7 @@ nav ul {
     background: linear-gradient(to bottom,  #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=0 ); /* IE6-9 */
 
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #1e5799;
 
 }
 
@@ -41,7 +91,7 @@ nav ul {
         display: inline-block;
         padding: 10px;
         margin: 0px;
-        border-right: 1px solid #000000;
+        border-right: 1px solid #1e5799;
     }
 
     nav ul li:hover {
